@@ -1,0 +1,70 @@
+
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #fffaf0;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+
+h1, h2 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+
+.ingredients {
+    background-color: #ffe4e1;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+
+.instructions {
+    background-color: #e6ffe6;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+
+
+ul, ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+
+img {
+    display: block;
+    margin: 20px auto;
+    width: 250px;
+    border-radius: 10px;
+    height: auto;
+}
+
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    color: gray;
+}
